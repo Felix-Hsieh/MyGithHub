@@ -10,7 +10,7 @@ namespace test1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("1234");
+            Console.WriteLine("12ee34");
             Console.Read();
         }
     }
